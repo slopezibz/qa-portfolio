@@ -82,7 +82,7 @@ Depending on the device used and screen size, plan and discount boxes are overla
 
 ## Bug Report 4
 
-| **Bug ID** | `WEB-` |
+| **Bug ID** | `WEB-15` |
 | **Project** | Lemon Tools Webpage - Register |
 | **Title** | Invalid captcha when registering |
 | **Severity** | High - Blocking user registering flow |
